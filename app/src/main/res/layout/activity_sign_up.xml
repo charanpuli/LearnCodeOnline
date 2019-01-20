@@ -50,7 +50,7 @@
         android:layout_marginTop="6dp"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
-        android:hint="email"
+        android:hint="Email"
         android:inputType="textEmailAddress"
         android:textColor="@android:color/white"
         android:textColorHint="@android:color/white"
