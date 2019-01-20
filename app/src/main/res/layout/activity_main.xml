@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
 
     tools:context=".MainActivity"
-    android:background="@drawable/glass">
+    android:background="@drawable/glassback">
 
 
 
@@ -70,7 +70,7 @@
             android:id="@+id/remember_me_chk"
             style="@style/Material.Drawable.CheckBox"
             android:text="Remember me"
-
+            app:cbd_strokeColor="@color/colorPrimaryDark"
             android:textColor="@color/colorPrimary"
             android:gravity="center_vertical"
             android:textStyle="bold"

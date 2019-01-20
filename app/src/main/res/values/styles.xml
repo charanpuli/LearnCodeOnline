@@ -6,6 +6,11 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-    </style>
 
+    </style>
+    <!--<style name="MyCheckBox" parent="Theme.AppCompat.NoActionBar">-->
+        <!--<item name="colorControlNormal">@color/colorPrimary</item>   &lt;!&ndash; normal border color change as you wish &ndash;&gt;-->
+        <!--<item name="colorControlActivated">#000</item> &lt;!&ndash; activated color change as you wish &ndash;&gt;-->
+        <!--<item name="android:textColor">#FFFF3F3C</item> &lt;!&ndash; checkbox text color &ndash;&gt;-->
+    <!--</style>-->
 </resources>
